@@ -15,8 +15,13 @@ https://www.malware-traffic-analysis.net/tutorials/wireshark/index.html
 # Youtube vids
 https://www.youtube.com/watch?v=tfyA7ZsgVO8
 
-### what is a SOC?
+##### SIEM:
 
+##### what is a siem:
+https://www.youtube.com/watch?v=ZuLazPgFtBE
+
+
+##### what is a SOC: 
 https://www.youtube.com/watch?v=ih0SC-dN6MU&feature=youtu.be
 
 https://learn.techbeacon.com/units/what-security-operations-center-soc
